@@ -1,0 +1,274 @@
+[
+  {
+    "viewport": {
+      "slug": "desktop-1440",
+      "width": 1440,
+      "height": 1050
+    },
+    "height": "height-80",
+    "count": 3,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\desktop-1440-height-80-3-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 147.296875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "desktop-1440",
+      "width": 1440,
+      "height": 1050
+    },
+    "height": "height-80",
+    "count": 7,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\desktop-1440-height-80-7-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 147.296875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "desktop-1440",
+      "width": 1440,
+      "height": 1050
+    },
+    "height": "height-160",
+    "count": 3,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\desktop-1440-height-160-3-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 147.296875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "desktop-1440",
+      "width": 1440,
+      "height": 1050
+    },
+    "height": "height-160",
+    "count": 7,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\desktop-1440-height-160-7-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 147.296875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "tablet-1024",
+      "width": 1024,
+      "height": 768
+    },
+    "height": "height-80",
+    "count": 3,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\tablet-1024-height-80-3-preview.png",
+    "previewBox": {
+      "x": 615.609375,
+      "y": 172.546875,
+      "width": 367.375,
+      "height": 806.34375
+    },
+    "imageBox": {
+      "x": 658.609375,
+      "y": 234.546875,
+      "width": 282.375,
+      "height": 652.34375
+    },
+    "baseBox": {
+      "x": 724.796875,
+      "y": 750.890625,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 66.1875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "tablet-1024",
+      "width": 1024,
+      "height": 768
+    },
+    "height": "height-80",
+    "count": 7,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\tablet-1024-height-80-7-preview.png",
+    "previewBox": {
+      "x": 615.609375,
+      "y": 53.546875,
+      "width": 367.375,
+      "height": 806.34375
+    },
+    "imageBox": {
+      "x": 658.609375,
+      "y": 115.546875,
+      "width": 282.375,
+      "height": 652.34375
+    },
+    "baseBox": {
+      "x": 724.796875,
+      "y": 631.890625,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 66.1875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "tablet-1024",
+      "width": 1024,
+      "height": 768
+    },
+    "height": "height-160",
+    "count": 3,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\tablet-1024-height-160-3-preview.png",
+    "previewBox": {
+      "x": 615.609375,
+      "y": 53.546875,
+      "width": 367.375,
+      "height": 806.34375
+    },
+    "imageBox": {
+      "x": 658.609375,
+      "y": 115.546875,
+      "width": 282.375,
+      "height": 652.34375
+    },
+    "baseBox": {
+      "x": 724.796875,
+      "y": 631.890625,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 66.1875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  },
+  {
+    "viewport": {
+      "slug": "tablet-1024",
+      "width": 1024,
+      "height": 768
+    },
+    "height": "height-160",
+    "count": 7,
+    "screenshotPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\extremes-current\\tablet-1024-height-160-7-preview.png",
+    "previewBox": {
+      "x": 615.609375,
+      "y": 53.546875,
+      "width": 367.375,
+      "height": 806.34375
+    },
+    "imageBox": {
+      "x": 658.609375,
+      "y": 115.546875,
+      "width": 282.375,
+      "height": 652.34375
+    },
+    "baseBox": {
+      "x": 724.796875,
+      "y": 631.890625,
+      "width": 150,
+      "height": 94
+    },
+    "baseRelative": {
+      "x": 66.1875,
+      "bottom": 42,
+      "width": 150,
+      "height": 94
+    }
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "baseURL": "http://127.0.0.1:4174",
+  "capturedAt": "2026-08-21T15:48:06.753Z",
+  "captures": [
+    {
+      "name": "reference-viewport",
+      "width": 864,
+      "height": 1821,
+      "isMobile": false,
+      "hasTouch": false,
+      "path": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\.aurora-stage\\docs\\visual-diff\\actual-reference-viewport.png",
+      "layout": {
+        "width": 864,
+        "height": 1821,
+        "viewport": {
+          "width": 864,
+          "height": 1821
+        },
+        "sections": [
+          {
+            "id": "top",
+            "top": 0,
+            "height": 768
+          },
+          {
+            "id": "about",
+            "top": 768,
+            "height": 347
+          },
+          {
+            "id": "scenarios",
+            "top": 1115,
+            "height": 389
+          },
+          {
+            "id": "request",
+            "top": 1504,
+            "height": 317
+          }
+        ]
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "badResponses": []
+    },
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "isMobile": false,
+      "hasTouch": false,
+      "path": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\.aurora-stage\\docs\\visual-diff\\actual-desktop.png",
+      "layout": {
+        "width": 1440,
+        "height": 1953,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "sections": [
+          {
+            "id": "top",
+            "top": 0,
+            "height": 900
+          },
+          {
+            "id": "about",
+            "top": 900,
+            "height": 347
+          },
+          {
+            "id": "scenarios",
+            "top": 1247,
+            "height": 389
+          },
+          {
+            "id": "request",
+            "top": 1636,
+            "height": 317
+          }
+        ]
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "badResponses": []
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024,
+      "isMobile": false,
+      "hasTouch": true,
+      "path": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\.aurora-stage\\docs\\visual-diff\\actual-tablet.png",
+      "layout": {
+        "width": 768,
+        "height": 1821,
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "sections": [
+          {
+            "id": "top",
+            "top": 0,
+            "height": 768
+          },
+          {
+            "id": "about",
+            "top": 768,
+            "height": 347
+          },
+          {
+            "id": "scenarios",
+            "top": 1115,
+            "height": 389
+          },
+          {
+            "id": "request",
+            "top": 1504,
+            "height": 317
+          }
+        ]
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "badResponses": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "isMobile": true,
+      "hasTouch": true,
+      "path": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\.aurora-stage\\docs\\visual-diff\\actual-mobile.png",
+      "layout": {
+        "width": 390,
+        "height": 3070,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "sections": [
+          {
+            "id": "top",
+            "top": 0,
+            "height": 820
+          },
+          {
+            "id": "about",
+            "top": 820,
+            "height": 760
+          },
+          {
+            "id": "scenarios",
+            "top": 1580,
+            "height": 770
+          },
+          {
+            "id": "request",
+            "top": 2350,
+            "height": 720
+          }
+        ]
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "badResponses": []
+    }
+  ]
+}

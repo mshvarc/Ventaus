@@ -1,0 +1,37 @@
+polini.shvlab.ru, chromatic-preview.77-91-193-144.sslip.io {
+	encode zstd gzip
+
+	request_body {
+		max_size 64KB
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+		Content-Security-Policy "default-src 'self'; base-uri 'self'; connect-src 'self'; font-src 'self'; form-action 'self'; frame-ancestors 'none'; img-src 'self' data:; object-src 'none'; script-src 'self'; style-src 'self'; style-src-attr 'unsafe-inline'; upgrade-insecure-requests"
+		X-Robots-Tag "noindex, nofollow, noarchive"
+		-Server
+		-X-Powered-By
+	}
+
+	@sensitive path /backup* /.env* /.git* /deploy* /docs* /references* /scripts* /server* /Dockerfile* /compose* /package*.json
+	respond @sensitive 404
+
+	reverse_proxy 127.0.0.1:3086 {
+		health_uri /healthz
+		health_interval 30s
+		health_timeout 3s
+	}
+
+	log {
+		output file /var/log/caddy/anniti-smart-preview-access.log {
+			roll_size 20MiB
+			roll_keep 10
+			roll_keep_for 720h
+		}
+		format json
+	}
+}

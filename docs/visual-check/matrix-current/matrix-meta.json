@@ -1,0 +1,262 @@
+[
+  {
+    "color": "#05E627",
+    "count": 3,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-3-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-3-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-3.png",
+    "renderedRods": 3
+  },
+  {
+    "color": "#05E627",
+    "count": 4,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-4-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-4-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-4.png",
+    "renderedRods": 4
+  },
+  {
+    "color": "#05E627",
+    "count": 5,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-5-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-5-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-5.png",
+    "renderedRods": 5
+  },
+  {
+    "color": "#05E627",
+    "count": 6,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-6-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-6-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-6.png",
+    "renderedRods": 6
+  },
+  {
+    "color": "#05E627",
+    "count": 7,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-7-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\green-7-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-7.png",
+    "renderedRods": 7
+  },
+  {
+    "color": "#C61DDA",
+    "count": 3,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-3-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-3-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-3.png",
+    "renderedRods": 3
+  },
+  {
+    "color": "#C61DDA",
+    "count": 4,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-4-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-4-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-4.png",
+    "renderedRods": 4
+  },
+  {
+    "color": "#C61DDA",
+    "count": 5,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-5-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-5-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-5.png",
+    "renderedRods": 5
+  },
+  {
+    "color": "#C61DDA",
+    "count": 6,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-6-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-6-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-6.png",
+    "renderedRods": 6
+  },
+  {
+    "color": "#C61DDA",
+    "count": 7,
+    "fullPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-7-full.png",
+    "previewPath": "C:\\Users\\MShva\\OneDrive\\Документы\\САЙТЫ 2\\polini-hero-qa\\docs\\visual-check\\matrix-current\\purple-7-preview.png",
+    "previewBox": {
+      "x": 869.375,
+      "y": 161.03125,
+      "width": 529.609375,
+      "height": 800.5
+    },
+    "imageBox": {
+      "x": 912.375,
+      "y": 223.03125,
+      "width": 444.609375,
+      "height": 646.5
+    },
+    "baseBox": {
+      "x": 1059.671875,
+      "y": 733.53125,
+      "width": 150,
+      "height": 94
+    },
+    "plateSrc": "/assets/images/configurator/lamp-base-clean-7.png",
+    "renderedRods": 7
+  }
+]
